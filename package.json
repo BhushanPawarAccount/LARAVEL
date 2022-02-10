@@ -27,7 +27,7 @@
     "dependencies": {
         "babel-loader": "^8.1.0",
         "ckeditor": "^4.12.1",
-        "node-sass": "^4.14.1",
+        "node-sass": "^7.0.0",
         "vue-loader": "^15.9.2"
     }
 }
